@@ -1,0 +1,61 @@
+name: Update KrishnaTV Playlist
+
+on:
+  schedule:
+    - cron: "30 2 * * *"
+    - cron: "30 14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch playlists
+        run: |
+          echo "Downloading jplus..."
+          curl -L "https://raw.githubusercontent.com/dakshudelhi/jio-m3u/refs/heads/main/playlist.m3u" -o jplus.m3u || true
+
+          echo "Downloading krishna..."
+          curl -L "https://asbestos-titanium-pens-months.trycloudflare.com/playlist.php" -o krishna.m3u || true
+
+          echo "Downloading exclusive..."
+          curl -L "https://raw.githubusercontent.com/fakeall12398-sketch/JIO_TV/refs/heads/main/jstar.m3u" -o exclusive.m3u || true
+
+      - name: Merge all into krishna.m3u
+        run: |
+          echo "#EXTM3U" > final.m3u
+
+          echo "Adding Krishna..."
+          grep -v "^#EXTM3U" krishna.m3u >> final.m3u || true
+
+          echo "Adding Jio (jplus)..."
+          grep -v "^#EXTM3U" jplus.m3u >> final.m3u || true
+
+          echo "Adding Exclusive..."
+          grep -v "^#EXTM3U" exclusive.m3u >> final.m3u || true
+
+          awk '!seen[$0]++' final.m3u > cleaned.m3u
+
+          mv cleaned.m3u krishna.m3u
+
+      - name: Add timestamp
+        run: |
+          echo "Last update: $(date)" > update_log.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add .
+
+          git commit -m "Auto update $(date)" || true
+
+          git push || true
