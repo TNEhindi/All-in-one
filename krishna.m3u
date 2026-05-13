@@ -16000,3 +16000,11 @@ https://peaky.techcoder40.workers.dev/776.m3u8
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="RajMusixTamil.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAJ_MUSIX_TAMIL/images/LOGO_HD/image.png" group-title="Music",Raj Musix Tamil (1080p)
 https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+#EXTINF:-1 tvg-id="DhamakaMoviesB4U.in@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Dhamaka_Movies.jpg" group-title="Movies",Dhamaka Movies B4U (576p)
+#EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-logo="" group-title="Movies",Goldmines 2 (576p)
+#EXTINF:-1 tvg-id="HarvestUSA.in@SD" tvg-logo="" group-title="Religious",Harvest USA (576p)
+#EXTINF:-1 tvg-id="MalarTV.in@SD" tvg-logo="" group-title="General",Malar TV (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ManoranjanPrime.in@SD" tvg-logo="" group-title="Entertainment",Manoranjan Prime
+#EXTINF:-1 tvg-id="MHOneMovies.in@SD" tvg-logo="" group-title="Movies",MH One Movies (576p)
+#EXTINF:-1 tvg-id="OnTV.in@SD" tvg-logo="" group-title="Undefined",On TV (576p)
+#EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-logo="" group-title="Religious",Sairam TV (576p)
