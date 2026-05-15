@@ -16008,3 +16008,23 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u
 #EXTINF:-1 tvg-id="MHOneMovies.in@SD" tvg-logo="" group-title="Movies",MH One Movies (576p)
 #EXTINF:-1 tvg-id="OnTV.in@SD" tvg-logo="" group-title="Undefined",On TV (576p)
 #EXTINF:-1 tvg-id="SairamTV.in@SD" tvg-logo="" group-title="Religious",Sairam TV (576p)
+http://103.122.249.134:8000/play/a058
+http://103.122.249.134:8000/play/a05j
+http://103.122.249.134:8000/play/a05f
+http://103.122.249.134:8000/play/a04y
+http://103.122.249.134:8000/play/a051
+#EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_MAX/images/LOGO_HD/image.png" group-title="Movies",Sony Max HD (1080p)
+http://103.122.249.134:8000/play/a05a
+http://103.122.249.134:8000/play/a04h
+http://103.122.249.134:8000/play/a03d
+#EXTINF:-1 tvg-id="StarBharat.in@HD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="News",Star Bharat HD (1080p)
+http://103.122.249.134:8000/play/a054
+#EXTINF:-1 tvg-id="StarSports1Hindi.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_SPORTS_1_HD_HINDI/images/LOGO_HD/image.png" group-title="Sports",Star Sports 1 Hindi HD (1080p)
+http://103.122.249.134:8000/play/a059
+http://103.122.249.134:8000/play/a04e
+http://103.122.249.134:8000/play/a055
+#EXTINF:-1 tvg-id="StarSports2Tamil.in@SD" tvg-logo="https://i.imgur.com/eWPoUxB.png" group-title="Sports",Star Sports 2 Tamil (576p)
+http://103.122.249.134:8000/play/a04i
+http://103.122.249.134:8000/play/a04u
+http://103.122.249.134:8000/play/a030
+https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&uid=gana-sunega&pass=krish-ka
