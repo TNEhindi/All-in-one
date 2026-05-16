@@ -16028,6 +16028,29 @@ http://103.122.249.134:8000/play/a04i
 http://103.122.249.134:8000/play/a04u
 http://103.122.249.134:8000/play/a030
 https://stb-air.wasmer.app//play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&uid=gana-sunega&pass=krish-ka
+#EXTINF:-1 tvg-id="AsianetMovies.in@HD" tvg-logo="https://i.imgur.com/cps67hs.png" group-title="Movies",Asianet Movies HD (1080p)
+http://149.71.34.166:8000/play/a06e/index.m3u8
+http://149.71.34.166:8000/play/a00c/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Disney Junior (576p)
+http://149.71.34.166:8000/play/a00l/index.m3u8
+#EXTINF:-1 tvg-id="EpicTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png" group-title="Entertainment",Epic TV (576p)
+http://149.71.34.166:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="MNX.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MNX_HD/images/LOGO_HD/image.png" group-title="Movies",MNX HD (1080p)
+http://149.71.34.166:8000/play/a05u/index.m3u8
+http://149.71.34.166:8000/play/a05t/index.m3u8
+http://149.71.34.166:8000/play/a00p/index.m3u8
+http://149.71.34.166:8000/play/a00u/index.m3u8
+#EXTINF:-1 tvg-id="PravahPicture.in@HD" tvg-logo="https://i.imgur.com/T76S4x3.png" group-title="Movies",Pravah Picture HD (1080p)
+http://149.71.34.166:8000/play/a06f/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2 (576p)
+http://149.71.34.166:8000/play/a00z/index.m3u8
+http://149.71.34.166:8000/play/a01b/index.m3u8
+http://103.253.18.58:8000/play/a02u
+http://149.71.34.166:8000/play/a01f/index.m3u8
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movies",Star Movies Select HD (1080p)
+http://149.71.34.166:8000/play/a01g/index.m3u8
+http://103.253.18.58:8000/play/a00l
+http://149.71.34.166:8000/play/a01q/index.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" group-title="News",4TV News (576p)
 https://cdn-4.pishow.tv/live/1007/master.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="News",6 TV Telugu (576p)
