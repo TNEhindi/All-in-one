@@ -16051,3 +16051,17 @@ http://149.71.34.166:8000/play/a01f/index.m3u8
 http://149.71.34.166:8000/play/a01g/index.m3u8
 http://103.253.18.58:8000/play/a00l
 http://149.71.34.166:8000/play/a01q/index.m3u8
+#EXTINF:-1 tvg-id="AndxplorHD.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDXPLOR_HD/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&xplor HD (1080p)
+http://149.71.34.166:8000/play/a001/index.m3u8
+http://149.71.34.166:8002/play/a01d/index.m3u8
+http://149.71.34.166:8002/play/a01p/index.m3u8
+http://149.71.34.166:8000/play/a075/index.m3u8
+#EXTINF:-1 tvg-id="NationalGeographic.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540" group-title="Documentary",National Geographic HD (576p)
+http://149.71.34.166:8002/play/a013/index.m3u8
+http://149.71.34.166:8002/play/a012/index.m3u8
+#EXTINF:-1 tvg-id="StarUtsav.in@SD" tvg-logo="https://i.imgur.com/H1jhHDl.png" group-title="Entertainment",Star Utsav (576p)
+http://149.71.34.166:8000/play/a04y/index.m3u8
+http://149.71.34.166:8000/play/a059/index.m3u8
+#EXTINF:-1 tvg-id="VijaySuper.in@HD" tvg-logo="https://i.imgur.com/3MWm9nD.png" group-title="Movies",Vijay Super HD (1080p)
+http://149.71.34.166:8000/play/a06c/index.m3u8
+http://149.71.34.166:8000/play/a06d/index.m3u8
