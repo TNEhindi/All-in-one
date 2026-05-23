@@ -16065,3 +16065,5 @@ http://149.71.34.166:8000/play/a059/index.m3u8
 #EXTINF:-1 tvg-id="VijaySuper.in@HD" tvg-logo="https://i.imgur.com/3MWm9nD.png" group-title="Movies",Vijay Super HD (1080p)
 http://149.71.34.166:8000/play/a06c/index.m3u8
 http://149.71.34.166:8000/play/a06d/index.m3u8
+#EXTINF:-1 tvg-id="MediBizTV.in@SD" tvg-logo="" group-title="Education;News;Science",MediBizTV (720p)
+https://43wrzjnpqoxe-hls-live.wmncdn.net/marinebiztvlive/marinebiztvlive/playlist.m3u8
