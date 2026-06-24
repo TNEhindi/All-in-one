@@ -16205,6 +16205,27 @@ https://live-evg5.tv360.bitel.com.pe/bitel/fillka/playlist.m3u8
 https://mini.allinonereborn.fun/tata.php?id=11624
 #EXTINF:-1 tvg-id="ZeeTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee TV HD (720p)
 http://41.205.93.154/ZEE-TV/index.m3u8
+#EXTINF:-1 tvg-id="Andpictures.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002FYK4V.png?lock=720x540" group-title="Movies",&pictures (720p)
+https://trs1.aynaott.com/andpictureshd/index.m3u8
+#EXTINF:-1 tvg-id="AndTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",&TV HD (720p)
+https://trs1.aynaott.com/andtvhd/index.m3u8
+https://trs1.aynaott.com/AssamTalks/index.m3u8
+#EXTINF:-1 tvg-id="BharatSamachar.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png" group-title="News",Bharat Samachar (576p)
+https://trs1.aynaott.com/BharatSamachar/index.m3u8
+http://de.russkoe-iptv.com:88/s/s-e3dc39e0/epic-hd.m3u8
+https://trs1.aynaott.com/Goldmines/index.m3u8
+https://trs1.aynaott.com/HindiKhabar/index.m3u8
+#EXTINF:-1 tvg-id="MoviePlex.in@SD" tvg-logo="https://i.imgur.com/THJEAqJ.png" group-title="Movies",MoviePlex (576p)
+https://mumt04.tangotv.in/m18aqlK4MOVIEPLEX/index.m3u8
+#EXTINF:-1 tvg-id="Network10.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Network_10.png" group-title="General",Network 10 (576p)
+https://trs1.aynaott.com/Network10/index.m3u8
+#EXTINF:-1 tvg-id="News1India.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS_1_INDIA/images/LOGO_HD/image.png" group-title="News",News 1 India (576p)
+https://trs1.aynaott.com/News1India/index.m3u8
+https://trs1.aynaott.com/NewsTime/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@HD" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Entertainment",StarPlus HD (720p)
+https://trs1.aynaott.com/starplushd/index.m3u8
+#EXTINF:-1 tvg-id="ZeeCinema.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Cinema (720p)
+https://trs1.aynaott.com/ZeeCinemaHD/index.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" group-title="News",4TV News (576p)
 https://cdn-4.pishow.tv/live/1007/master.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="News",6 TV Telugu (576p)
