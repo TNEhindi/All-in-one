@@ -16337,3 +16337,22 @@ http://tvsen7.aynascope.net/sspts1/index.m3u8
 http://tvsen7.aynascope.net/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-id="TimeTV.in@SD" tvg-logo="https://i.imgur.com/yxpeWnY.png" group-title="News",Time TV (576p)
 http://tvsen5.aynascope.net/timetv/index.m3u8
+#EXTINF:-1 tvg-id="Aastha.in@HD" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Religious",Aastha (720p)
+#EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD (720p)
+https://trs1.aynaott.com/colorshd/index.m3u8
+#EXTINF:-1 tvg-id="Insync.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Insync.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Music",Insync (576p)
+http://103.175.73.12:8080/live/160/master.m3u8
+#EXTINF:-1 tvg-id="PTCNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",PTC News (576p)
+http://103.175.73.12:8080/live/182/master.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png" group-title="Entertainment",PTC Punjabi (720p)
+http://103.213.31.109:90/ActionCinema/playlist.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabi.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png" group-title="Entertainment",PTC Punjabi HD (1080p)
+#EXTINF:-1 tvg-id="PTCSimran.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002NG05K.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Religious",PTC Simran (576p)
+http://103.175.73.12:8080/live/183/master.m3u8
+#EXTINF:-1 tvg-id="PublicFirst.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Public_First.png" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",Public First (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+http://103.175.73.12:8080/live/237/master.m3u8
+#EXTINF:-1 tvg-id="Rengoni.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143722_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Undefined",Rengoni (576p)
+http://103.175.73.12:8080/live/709/master.m3u8
+https://mumt03.tangotv.in/Dsly5z3HSIRIKANNADA/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
