@@ -16393,6 +16393,8 @@ https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
 #EXTINF:-1 tvg-id="JTBSClassic.in@Main" tvg-logo="https://jtbs-classic.web.app/logo.png" group-title="Culture;Religious",JTBS Classic (480p)
 https://jtbsclassic.dpdns.org/live.m3u8
 #EXTINF:-1 tvg-id="JTBSClassic.in" tvg-logo="https://jtbs-classic.web.app/logo.png" group-title="Culture;Religious",JTBS Classic
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi (720p)
+https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" group-title="News",4TV News (576p)
 https://cdn-4.pishow.tv/live/1007/master.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="News",6 TV Telugu (576p)
