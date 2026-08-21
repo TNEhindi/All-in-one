@@ -16496,3 +16496,84 @@ http://103.175.73.12:8080/live/688/master.m3u8
 https://trs1.aynaott.com/zeetvhd/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Cinema (576p)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+https://tvsen3.aynaott.com/jzT482XQ/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3APN/index.m3u8
+#EXTINF:-1 tvg-id="ArgusNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ARGUS/images/LOGO_HD/image.png" group-title="News",Argus News (576p)
+https://mumt05.tangotv.in/87NeALx2ARGUSNEWS/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HAWAKENINGTV/index.m3u8
+https://mumt05.tangotv.in/87NeALx2BHAKTISAGAR/index.m3u8
+#EXTINF:-1 tvg-id="BharatExpress.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png" group-title="News",Bharat Express (576p)
+https://mumt07.tangotv.in/zHjX9OFlBHARATEXPRESS/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HBHARATSAMACHAR/index.m3u8
+https://mumt05.tangotv.in/87NeALx2DARSHAN24/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8
+https://streams.tangotv.in/DDNEWS/ORIGIN/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3H1STINDIANEWS/index.m3u8
+#EXTINF:-1 tvg-id="GujaratFirst.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png" group-title="News",Gujarat First (576p)
+https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4HINDIKHABAR/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3HINDUDHARMAM/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3HOPECHANNELINDIA/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3HORNBILLTV/index.m3u8
+https://mumt06.tangotv.in/qYyB8fXVIND24/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8
+#EXTINF:-1 tvg-id="JantantraTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jantantra.png" group-title="News",Jantantra TV (576p)
+https://mumt05.tangotv.in/87NeALx2JANTANTRA/index.m3u8
+https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="KalingaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KALINGA_TV/images/LOGO_HD/image.png" group-title="News",Kalinga TV (576p)
+https://mumt01.tangotv.in/O5aw8Zn3KALINGATV/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8
+#EXTINF:-1 tvg-id="KhabarFast.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Khabar_Fast.png" group-title="News",Khabar Fast (576p)
+https://mumt04.tangotv.in/m18aqlK4KHABARFAST/index.m3u8
+https://mumt05.tangotv.in/87NeALx2KHABRAINABHITAK/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlMADHATV/index.m3u8
+#EXTINF:-1 tvg-id="MahaaMax.in@SD" tvg-logo="https://objectstorage.ap-mumbai-1.oraclecloud.com/p/7Eg7LPw1gBcncVDrfwf__7yyrg13awaU6DmMk4gutavGYZgoAuAziv8e0aSEdU4G/n/bmaqqlwez184/b/GTPL_CHANNEL_LOGO/o/gtpl/MAHAA+MAX+LOGO.png" group-title="Entertainment",Mahaa Max (576p)
+https://mumt03.tangotv.in/Dsly5z3HMAHAAMAX/index.m3u8
+#EXTINF:-1 tvg-id="MahaaNews.in@SD" tvg-logo="https://i.imgur.com/buT76vR.png" group-title="News",Mahaa News (576p)
+https://mumt07.tangotv.in/zHjX9OFlMAHAANEWS/index.m3u8
+#EXTINF:-1 tvg-id="ManoranjanPrime.in@SD" tvg-logo="" group-title="Entertainment",Manoranjan Prime (576p)
+https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
+https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="MazhavilManorama.in@SD" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="Entertainment",Mazhavil Manorama (576p)
+https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8
+#EXTINF:-1 tvg-id="MKNMarathi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0021LWE6.png?lock=720x540" group-title="News",MKN Marathi (576p)
+https://mumt04.tangotv.in/m18aqlK4MKNNEWSHINDI/index.m3u8
+https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
+#EXTINF:-1 tvg-id="NandighoshaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Nandighosha.png" group-title="General",Nandighosha TV (576p)
+https://mumt05.tangotv.in/87NeALx2NANDIGHOSHATV/index.m3u8
+#EXTINF:-1 tvg-id="Nepal1.in@SD" tvg-logo="https://i.imgur.com/Xr4FjC8.png" group-title="Entertainment",Nepal 1 (576p)
+https://mumt05.tangotv.in/87NeALx2NEPAL1/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3NETWORK10/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlNEWS1INDIA/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4NEWS24MPCG/index.m3u8
+https://mumt06.tangotv.in/qYyB8fXVINDRADHANU/index.m3u8
+#EXTINF:-1 tvg-id="NewsX.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143624_ld_h15_aa.png?lock=720x540" group-title="News",NewsX (576p)
+https://mumt01.tangotv.in/O5aw8Zn3NEWSX/index.m3u8
+#EXTINF:-1 tvg-id="NewsXWorld.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_X_World.png" group-title="News",NewsX World (576p)
+https://mumt03.tangotv.in/Dsly5z3HNEWSXWORLD/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3OMTV/index.m3u8
+https://mumt04.tangotv.in/m18aqlK4PARASGOLD/index.m3u8
+https://streams.tangotv.in/PRAGNEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="PrameyaNews7.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143578_ld_h15_aa.png?lock=720x540" group-title="News",Prameya News7 (576p)
+https://mumt03.tangotv.in/Dsly5z3HPRAMEYANEWS7/index.m3u8
+#EXTINF:-1 tvg-id="Prime9News.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_9_News.png" group-title="News",Prime9 News (576p)
+https://mumt01.tangotv.in/O5aw8Zn3PRIME9NEWS/index.m3u8
+#EXTINF:-1 tvg-id="PudhariNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PUDHARI_NEWS/images/LOGO_HD/image.png" group-title="News",Pudhari News (576p)
+https://streams.tangotv.in/PUDHARINEWS/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="RaftaarMedia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_RAFTAAR_MEDIA/images/LOGO_HD/image.png" group-title="Undefined",Raftaar Media (576p)
+https://mumt04.tangotv.in/m18aqlK4RAFTAARMEDIA/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HRAJNEWSKANDA/index.m3u8
+#EXTINF:-1 tvg-id="SadhnaNewsMadhyaPradeshChhattisgarh.in@SD" tvg-logo="https://i.imgur.com/799WMit.png" group-title="News",Sadhna News Madhya Pradesh/Chhattisgarh (576p)
+https://mumt04.tangotv.in/m18aqlK4SADHNEWSPMRAJ/index.m3u8
+#EXTINF:-1 tvg-id="SadhnaTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143736_ld_h15_aa.png?lock=720x540" group-title="Religious",Sadhna TV (576p)
+https://mumt05.tangotv.in/87NeALx2SADHNATV/index.m3u8
+https://mumt03.tangotv.in/Dsly5z3HSAITV/index.m3u8
+#EXTINF:-1 tvg-id="SonyBBCEarth.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Documentary",Sony BBC Earth HD (720p)
+https://sra72yz.s.gy/SONY_BBC_EARTH_HD.m3u8
+https://mumt04.tangotv.in/m18aqlK4SUBHARTITV/index.m3u8
+https://streams.tangotv.in/THANTHITV/ORIGIN/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlTV5KANNADA/index.m3u8
+https://mumt01.tangotv.in/O5aw8Zn3VANITHA/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlVISSATV/index.m3u8
