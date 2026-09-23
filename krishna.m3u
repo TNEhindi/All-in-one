@@ -17178,3 +17178,14 @@ https://d1msejlow1t3l4.cloudfront.net/fta/swarajexpresssmbc/playlist.m3u8
 https://tvsen6.aynaott.com/DpPnXP9r/index.m3u8
 http://107.167.16.138/zeeclassic/index.m3u8?token=test
 http://107.167.16.138/zing/index.m3u8?token=test
+#EXTINF:-1 tvg-id="MunsifTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Munsif_TV.png" group-title="News",Munsif TV (576p)
+#EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News7_Tamil.png" group-title="News",News 7 Tamil (576p)
+#EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_J.png" group-title="News",News J (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143779_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Shemaroo Umang (720p)
+#EXTINF:-1 tvg-id="SonyMarathi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157970_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Marathi (1080p)
+#EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Pal (1080p)
+#EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="Entertainment",Sony SAB HD (1080p)
+#EXTINF:-1 tvg-id="SonyWah.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157974_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Wah (1080p)
+#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159100_ld_h15_aa.png?lock=720x540" group-title="Animation;Kids",Sony Yay! (1080p)
+#EXTINF:-1 tvg-id="TarangTV.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143927_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Tarang TV (720p)
+#EXTINF:-1 tvg-id="VanithaTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vanitha.png" group-title="Entertainment",Vanitha TV (576p)
