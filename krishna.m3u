@@ -18243,3 +18243,45 @@ https://cdn.pishow.tv/ott/live/258/master.m3u8
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-791258/master.m3u8
 https://cdn.pishow.tv/ott/live/969/master.m3u8
 #EXTINF:-1 tvg-id="HindiHits.in@SD" tvg-logo="https://i.ibb.co/SwWjbPSv/hindi-hits-hd.png" group-title="Music",Hindi Hits SD (1080p)
+http://163.61.226.31:9981/stream/channelid/565086134?profile=pass
+https://abpmitv.akamaized.net/hls/live/2042842/abpnews/master.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/argusnews/playlist.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2774c390ad884e06a7b0257c8489e23d/index.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/40f46fa036df45ee9d28b6eda42eb27c/index.m3u8
+http://103.135.253.32:8080/COLORS-BANGLA-HD/index.m3u8
+https://stream.ottlive.co.in/dailypost/index.m3u8
+#EXTINF:-1 tvg-id="DDPunjabi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142800_ld_h15_aa.png?lock=720x540" group-title="Culture",DD Punjabi (576p)
+http://163.61.226.31:9981/stream/channelid/2094424586?profile=pass
+#EXTINF:-1 tvg-id="FashionTV.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Fashion%20TV.png" group-title="Lifestyle",FashionTV (India) (576p)
+http://163.61.226.31:9981/stream/channelid/448803688?profile=pass
+http://163.61.226.31:9981/stream/channelid/863672695?profile=pass
+http://163.61.226.31:9981/stream/channelid/1436412639?profile=pass
+http://163.61.226.31:9981/stream/channelid/1393052638?profile=pass
+https://live1.ottlive.co.in/gujaratfirst/index.m3u8
+https://livingindiaottlive.akamaized.net/hindikhabar/index.m3u8
+#EXTINF:-1 tvg-id="KNewsIndia.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/K_News_India.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",K News India (576p)
+https://fta.ektv.in/live/100/100_0.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/kanaknews/playlist.m3u8
+https://d2gvyg6lvauoko.cloudfront.net/230226/khabarfast/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+https://livingindia.ottlive.co.in/livingindia/index.m3u8
+http://163.61.226.31:9981/stream/channelid/509213855?profile=pass
+https://d1msejlow1t3l4.cloudfront.net/fta/Nandighoshatv/playlist.m3u8
+https://web-ndtv24x7-uk.akamaized.net/hls/live/2109290/ndtv24x7uk/master.m3u8
+https://amg01106-amg01106c3-amgplt0747.playout.now3.amagi.tv/amg01106c3/hls.m3u8
+https://amg01448-samsungin-news18bangla-samsungin-ad-qy.amagi.tv/playlist/amg01448-samsungin-news18bangla-samsungin/playlist.m3u8
+https://stream.ottlive.co.in/news24/index.m3u8
+http://103.135.253.32:8080/NICK-Jr/index.m3u8
+http://103.135.253.32:8080/NICK/index.m3u8
+https://hlslive.olidigital.in/olitv/olitv/index.m3u8
+http://103.135.253.32:8080/Pace-TV-Bangla/index.m3u8
+https://janya-pitaaralive.akamaized.net/ptnr-monitoring/v1/vglive-sk-217489/live/PitaaraComedy_15/chunks.m3u8
+https://d1msejlow1t3l4.cloudfront.net/fta/pragnews/playlist.m3u8
+#EXTINF:-1 tvg-id="PunjabiBeatsHD.in@HD" tvg-logo="https://i.imgur.com/1Za9gNQ.jpg" group-title="Music",Punjabi Beats HD (576p)
+https://mumt01.tangotv.in/O5aw8Zn3STVHARYANANEWS/index.m3u8
+http://163.61.226.31:9981/stream/channelid/359164420?profile=pass
+https://d2lk5u59tns74c.cloudfront.net/out/v1/bc57af15b4df4200af5fa4c1d6ab0a72/index.m3u8
+https://d2lk5u59tns74c.cloudfront.net/out/v1/e903e03c2b414ee0b74db68d7779ccad/index.m3u8
+https://r2.amml.in/sony-ten-3-hd/live.m3u8
+https://r2.amml.in/sony-yay/live.m3u8
+http://163.61.226.31:9981/stream/channelid/1687023184?profile=pass
+http://103.135.253.32:8080/ZEE-BANGLA-CINEMA/index.m3u8
