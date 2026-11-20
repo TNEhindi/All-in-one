@@ -18323,6 +18323,34 @@ https://yuppnimresmum.akamaized.net/120723/smil:sivantempletv.smil/playlist.m3u8
 https://stream.ottlive.co.in/thebonus/index.m3u8
 #EXTINF:-1 tvg-id="ViiMEDIA.in@SD" tvg-logo="https://yt3.googleusercontent.com/UYTVPDOHTs9b-v1h2pAUHC_e8I_QRTUITTutft_5hOGC2YLL2-jtgD0xaSWZGOfWjmXKjL3AexE=s1200" group-title="General",Vii MEDIA (1080p)
 https://viimedia.akamaized.net/viimedia/master.m3u8
+http://116.90.120.149:8000/play/a132/index.m3u8
+http://116.90.120.149:8000/play/a133/index.m3u8
+http://116.90.120.149:8000/play/a11o/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159107_ld_h15_aa.png?lock=720x540" group-title="Science",Discovery Science (576p)
+http://116.90.120.149:8000/play/a11b/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryTurbo.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISCOVERY_TURBO/images/LOGO_HD/image.png" group-title="Auto",Discovery Turbo (India) (576p)
+http://116.90.120.149:8000/play/a11d/index.m3u8
+http://116.90.120.149:8000/play/a124/index.m3u8
+http://116.90.120.149:8000/play/a11r/index.m3u8
+http://116.90.120.149:8000/play/a118/index.m3u8
+http://116.90.120.149:8000/play/a12z/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png" group-title="Documentary",Investigation Discovery (India) (576p)
+http://116.90.120.149:8000/play/a119/index.m3u8
+http://116.90.120.149:8000/play/a11e/index.m3u8
+http://116.90.120.149:8000/play/a11m/index.m3u8
+http://116.90.120.149:8000/play/a11f/index.m3u8
+http://116.90.120.149:8000/play/a11k/index.m3u8
+#EXTINF:-1 tvg-id="MTV.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MTV/images/LOGO_HD/image.png" group-title="Entertainment",MTV (India) HD (1080p)
+http://116.90.120.149:8000/play/a136/index.m3u8
+http://116.90.120.149:8000/play/a115/index.m3u8
+http://116.90.120.149:8000/play/a11h/index.m3u8
+http://116.90.120.149:8000/play/a11j/index.m3u8
+http://116.90.120.149:8000/play/a130/index.m3u8
+#EXTINF:-1 tvg-id="SonyMax.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157590_ld_h15_aa.png?lock=720x540" group-title="Movies",Sony Max (720p)
+https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
+http://116.90.120.149:8000/play/a123/index.m3u8
+http://116.90.120.149:8000/play/a138/index.m3u8
+https://indianews-yupptv.vgcdn.net/vglive-sk-926943/index.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",4TV News (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/647/master.m3u8
