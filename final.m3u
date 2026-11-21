@@ -18351,6 +18351,36 @@ https://drk6xq0vhn.gpcdn.net/hls/set_max_m4fb8dz2wp6kr9s_720/index.m3u8
 http://116.90.120.149:8000/play/a123/index.m3u8
 http://116.90.120.149:8000/play/a138/index.m3u8
 https://indianews-yupptv.vgcdn.net/vglive-sk-926943/index.m3u8
+#EXTINF:-1 tvg-id="ApnaPunjabTV.ca@SD" tvg-logo="https://i.imgur.com/IM4D8Wz.png" group-title="Entertainment",Apna Punjab TV (Canada) (720p)
+#EXTINF:-1 tvg-id="ApnaPunjabTV.in@SD" tvg-logo="https://www.apnapunjab.tv/images/logo.png" group-title="General",Apna Punjab TV (India) (576p)
+https://samitaorigin.tangotv.in/APNAPUNJAB/SAMITAORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="C10.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/C-10.png" group-title="News",C-10 (576p)
+https://samitaorigin.tangotv.in/C10/SAMITAORIGIN/index.m3u8
+https://mumt07.tangotv.in/zHjX9OFlHNN24X7/index.m3u8
+http://116.90.120.149:8000/play/a128/index.m3u8
+http://116.90.120.149:8000/play/a126/index.m3u8
+http://116.90.120.149:8000/play/a11t/index.m3u8
+http://116.90.120.149:8000/play/a137/index.m3u8
+http://116.90.120.149:8000/play/a117/index.m3u8
+http://116.90.120.149:8000/play/a12b/index.m3u8
+http://116.90.120.149:8000/play/a12a/index.m3u8
+http://116.90.120.149:8000/play/a12c/index.m3u8
+http://116.90.120.149:8000/play/a131/index.m3u8
+http://116.90.120.149:8000/play/a13a/index.m3u8
+http://116.90.120.149:8000/play/a139/index.m3u8
+http://116.90.120.149:8000/play/a11x/index.m3u8
+http://116.90.120.149:8000/play/a122/index.m3u8
+http://116.90.120.149:8000/play/a120/index.m3u8
+#EXTINF:-1 tvg-id="TLC.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TLC/images/LOGO_HD/image.png" group-title="Lifestyle",TLC (India) HD (1080p)
+http://116.90.120.149:8000/play/a11g/index.m3u8
+#EXTINF:-1 tvg-id="Unite8Sports1.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CAFE/images/LOGO_HD/LOGO_HD_5UHAHVIHu_UNITE8-SPORTS-1_264X144.webp" group-title="Sports",Unite8 Sports 1 (576p)
+http://116.90.120.149:8000/play/a11l/index.m3u8
+http://116.90.120.149:8000/play/a125/index.m3u8
+http://116.90.120.149:8000/play/a129/index.m3u8
+http://116.90.120.149:8000/play/a121/index.m3u8
+http://116.90.120.149:8000/play/a11p/index.m3u8
+http://116.90.120.149:8000/play/a116/index.m3u8
+http://116.90.120.149:8000/play/a11q/index.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",4TV News (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/647/master.m3u8
