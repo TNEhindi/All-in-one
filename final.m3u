@@ -18451,6 +18451,32 @@ https://em4qj6nedyvg-hls-live.wmncdn.net/utv/ab2de115318ae40bdd434e193a2f2e7f.sd
 https://online.wayanadvision.in/hls/wvmovies.m3u8
 #EXTINF:-1 tvg-id="WayanadVisionPlus.in@SD" tvg-logo="https://i.ibb.co/zTZk83Z3/wayand-vision-plus.jpg" group-title="Entertainment",Wayanad Vision Plus (720p)
 https://online.wayanadvision.in/hls/streaming1.m3u8
+#EXTINF:-1 tvg-id="ABCNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABC_News.png" group-title="News",ABC News (India) (1080p)
+https://stream.ottlive.co.in/abcnews/index.m3u8
+#EXTINF:-1 tvg-id="CCNET.in@SD" tvg-logo="https://play-lh.googleusercontent.com/q5iULjQ59LU1X_ExM6aKYQk64fouGbzBtdKTgNSgO8sHdGfTcgcbIaunns9pATnwu2ttBpAm-DftDzV6u-ClJg8" group-title="Entertainment",CC NET (1080p)
+https://live.skystream.in/live/ccnet7082/index.m3u8
+#EXTINF:-1 tvg-id="DrisyaNewsPala.in@SD" tvg-logo="https://play-lh.googleusercontent.com/9HetsKoBEAixDgC6P9kKuy7EqiPmd2wUewuaD0-DuDbBxrHmQPTGIsc6DtZd5nmj5pod-mHLlIWJMOFlsC0XPWA" group-title="Entertainment",Drisya News Pala (576p)
+https://live.skystream.in/live/DrisyaPala2924/index.m3u8
+#EXTINF:-1 tvg-id="IN24News.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/in24news.png" group-title="News",IN 24 News (1080p)
+https://stream.ottlive.co.in/in24news/index.m3u8
+#EXTINF:-1 tvg-id="K7KeralamChannel.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9HJ1d-xOsWKg7ZYyU7algdOhJspVrXQUvQnCxqKfsrw&s=10" group-title="Entertainment",K7 Keralam Channel (1080p)
+https://live.skystream.in/live/keralam2742/index.m3u8
+https://stream.ottlive.co.in/newsbeatkarnataka/index.m3u8
+#EXTINF:-1 tvg-id="LokmatBharat.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/lokmatbharat.png" group-title="News",Lokmat Bharat (1080p)
+https://stream.ottlive.co.in/lokmatbharat/index.m3u8
+#EXTINF:-1 tvg-id="NEBharat24.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NE_Bharat24.png" group-title="News",NE Bharat24 (1080p)
+https://stream.ottlive.co.in/nebharat24/index.m3u8
+#EXTINF:-1 tvg-id="News21.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/News_21.png" group-title="News",News 21 (1080p)
+https://stream.ottlive.co.in/news21/index.m3u8
+#EXTINF:-1 tvg-id="Pulse24.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Pulse_24.png" group-title="News",Pulse 24 (1080p)
+https://stream.ottlive.co.in/pulse24news/index.m3u8
+https://rangdhonulive.samiulislamabhi.workers.dev/sonyMAXhd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="SristiTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sristi_TV.png" group-title="Undefined",Sristi TV (1080p)
+https://stream.ottlive.co.in/sristitv/index.m3u8
+#EXTINF:-1 tvg-id="TaraTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Tara_TV.png" group-title="News",Tara TV (720p)
+https://stream.ottlive.co.in/taratv/index.m3u8
+#EXTINF:-1 tvg-id="VandeBharatNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vande_Bharat.png" group-title="News",Vande Bharat News (1080p)
+https://stream.ottlive.co.in/vandebharatnews/index.m3u8
 #EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",4TV News (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://fta.ektv.in/live/647/master.m3u8
